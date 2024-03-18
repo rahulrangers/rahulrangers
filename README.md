@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hi%20Purmani%20Rahul%20Reddy%20here!&animation=fadeIn&type=waving&color=gradient&height=100)
+![header](https://capsule-render.vercel.app/api?text=Hi%20Rahul%20here!&animation=fadeIn&type=waving&color=gradient&height=100)
 
 ## 🙋‍♂️ About Me
 - 👨‍🎓 I'm a Sophomore undergrad at the Computer Science Department, IIT Jodhpur.
@@ -37,7 +37,7 @@
 [![Rahul Reddy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulrangers&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrangers&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()\
 PS: Top Languages are metric of language that my public code contains; it doesn't reflect my experience or skill level.\
-[![Rahul Reddy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rahulrangers&custom_title=RahulReddy's%20contribution%20graph&hide_border=true&theme=react-dark)]()
+
 
 <!--
 ## ❤ Profile Views and Followers
