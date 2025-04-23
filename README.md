@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Hi%20Rahul%20here!&animation=fadeIn&type=waving&color=gradient&height=100)
 
 ## 🙋‍♂️ About Me
-- 👨‍🎓 I'm a Sophomore undergrad at the Computer Science Department, IIT Jodhpur.
+- 👨‍🎓 I'm a Pre-Final undergrad at the Computer Science Department, IIT Jodhpur.
 - 🌱 I’m currently learning GO, Kotlin, ML.
 - 📫 How to reach me: rahulreddypurmani123@gmail.com or b22cs041@iitj.ac.in
 - 👯 I’m looking to collaborate on open-source projects.
